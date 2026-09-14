@@ -1,0 +1,30 @@
+{
+    "admin": {
+        "userRole": "Admin",
+        "firstName": "John",
+        "surname": "Doe",
+        "email": "admin@practicesoftwaretesting.com",
+        "password": "welcome01"
+    },
+    "customer": {
+        "userRole": "User",
+        "firstName": "Jane",
+        "surname": "Doe",
+        "email": "customer@practicesoftwaretesting.com",
+        "password": "welcome01"
+    },
+    "customer2": {
+        "userRole": "User",
+        "firstName": "Jack",
+        "surname": "Howe",
+        "email": "customer2@practicesoftwaretesting.com",
+        "password": "welcome01"
+    },
+    "customer3": {
+        "userRole": "User",
+        "firstName": "Bob",
+        "surname": "Smith",
+        "email": "customer3@practicesoftwaretesting.com",
+        "password": "pass123"
+    }
+}
